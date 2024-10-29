@@ -1,5 +1,5 @@
 Flask==2.1.2
-tensorflow-cpu==2.9.1  # Adjust based on your model compatibility
+tensorflow-cpu==2.16.1  # Adjust based on your model compatibility
 numpy==1.21.5
 scikit-learn==1.0.2
 joblib==1.1.0
